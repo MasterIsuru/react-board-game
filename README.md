@@ -1,5 +1,7 @@
 Simple Board Game developed by @MasterIsuru.
 
+![](img.png)
+
 ## Instructions
 
 In the project directory, you can run:
