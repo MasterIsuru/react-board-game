@@ -69,7 +69,7 @@ class App extends React.Component {
     const { board, currentNodePosition, totalNodes, gameOver } = this.state;
     return (
       <div className="App">
-        <h1>Board game</h1>
+        <h1>React Board game</h1>
         <div className="main-container">
           <div className="board-container">
             {board}

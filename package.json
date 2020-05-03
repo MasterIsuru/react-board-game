@@ -1,7 +1,14 @@
 {
   "name": "react-board-game",
-  "version": "0.1.0",
-  "private": true,
+  "version": "1.0.2",
+  "author": "MasterIsuru",
+  "homepage": "https://masterisuru.github.io/react-board-game/",
+  "keywords": [
+    "game",
+    "react-board-game",
+    "react-games",
+    "board-game"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.3",
@@ -11,6 +18,8 @@
     "react-scripts": "3.3.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,5 +39,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
