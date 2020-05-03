@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-board-game/static/css/main.bb4d29d5.chunk.css",
+    "main.js": "/react-board-game/static/js/main.cedf8645.chunk.js",
+    "main.js.map": "/react-board-game/static/js/main.cedf8645.chunk.js.map",
+    "runtime-main.js": "/react-board-game/static/js/runtime-main.37c8e197.js",
+    "runtime-main.js.map": "/react-board-game/static/js/runtime-main.37c8e197.js.map",
+    "static/js/2.0c17a115.chunk.js": "/react-board-game/static/js/2.0c17a115.chunk.js",
+    "static/js/2.0c17a115.chunk.js.map": "/react-board-game/static/js/2.0c17a115.chunk.js.map",
+    "index.html": "/react-board-game/index.html",
+    "precache-manifest.a1c19f4f511a231ba711aceab1327abd.js": "/react-board-game/precache-manifest.a1c19f4f511a231ba711aceab1327abd.js",
+    "service-worker.js": "/react-board-game/service-worker.js",
+    "static/css/main.bb4d29d5.chunk.css.map": "/react-board-game/static/css/main.bb4d29d5.chunk.css.map",
+    "static/js/2.0c17a115.chunk.js.LICENSE": "/react-board-game/static/js/2.0c17a115.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37c8e197.js",
+    "static/js/2.0c17a115.chunk.js",
+    "static/css/main.bb4d29d5.chunk.css",
+    "static/js/main.cedf8645.chunk.js"
+  ]
+}
