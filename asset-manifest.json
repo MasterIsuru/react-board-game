@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-board-game/static/css/main.abcbbef4.chunk.css",
-    "main.js": "/react-board-game/static/js/main.cedf8645.chunk.js",
-    "main.js.map": "/react-board-game/static/js/main.cedf8645.chunk.js.map",
+    "main.css": "/react-board-game/static/css/main.92b29de9.chunk.css",
+    "main.js": "/react-board-game/static/js/main.24206125.chunk.js",
+    "main.js.map": "/react-board-game/static/js/main.24206125.chunk.js.map",
     "runtime-main.js": "/react-board-game/static/js/runtime-main.37c8e197.js",
     "runtime-main.js.map": "/react-board-game/static/js/runtime-main.37c8e197.js.map",
     "static/js/2.0c17a115.chunk.js": "/react-board-game/static/js/2.0c17a115.chunk.js",
     "static/js/2.0c17a115.chunk.js.map": "/react-board-game/static/js/2.0c17a115.chunk.js.map",
     "index.html": "/react-board-game/index.html",
-    "precache-manifest.bef6abc07a359d39aab0ff1b5a90a347.js": "/react-board-game/precache-manifest.bef6abc07a359d39aab0ff1b5a90a347.js",
+    "precache-manifest.e9c0ddf8e084bf598a04b7f94153e48a.js": "/react-board-game/precache-manifest.e9c0ddf8e084bf598a04b7f94153e48a.js",
     "service-worker.js": "/react-board-game/service-worker.js",
-    "static/css/main.abcbbef4.chunk.css.map": "/react-board-game/static/css/main.abcbbef4.chunk.css.map",
+    "static/css/main.92b29de9.chunk.css.map": "/react-board-game/static/css/main.92b29de9.chunk.css.map",
     "static/js/2.0c17a115.chunk.js.LICENSE": "/react-board-game/static/js/2.0c17a115.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.37c8e197.js",
     "static/js/2.0c17a115.chunk.js",
-    "static/css/main.abcbbef4.chunk.css",
-    "static/js/main.cedf8645.chunk.js"
+    "static/css/main.92b29de9.chunk.css",
+    "static/js/main.24206125.chunk.js"
   ]
 }
